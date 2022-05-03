@@ -1,1 +1,1 @@
-# progetto-smartphone-sett8
+# progetto-funz_smartphone-typescript
